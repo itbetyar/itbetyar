@@ -13,7 +13,7 @@ Nézegesd kedvedre tanfolyamon belül vagy kívül
 ---
 
 
-| ### [Mars robot](https://github.com/itbetyar/Mars-robot) | ### [Grafikus Digitális óra](https://github.com/itbetyar/Digitalis-ora)
+| [Mars robot](https://github.com/itbetyar/Mars-robot) | [Grafikus Digitális óra](https://github.com/itbetyar/Digitalis-ora) |
 | <img src="https://github.com/itbetyar/mars-robot/blob/main/mars%20robot%20code.webp" alt="Alt text" width="200"> | <img src="https://github.com/itbetyar/Digitalis-ora/blob/main/digitalis-ora2.webp" alt="Alt text" width="200"> |
 
 
