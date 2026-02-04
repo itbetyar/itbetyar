@@ -1,6 +1,7 @@
 # Üdvözöljük az IT Betyár GitHub oldalán! 🚀
 
 ### Az oldal szerkesztés alatt - 2026.02.
+
 | 🤖 A.I. Developer tanfolyam | 🐍 Kezdő Python tanfolyam | 🛠️ Egyéb Projektek |
 | :--- | :--- | :--- |
 | [Nagy AI Projektem](link) | [Mars robot](https://github.com/itbetyar/Mars-robot) | [Arduino vázlatok](link) |
