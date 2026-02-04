@@ -12,8 +12,11 @@ Nézegesd kedvedre tanfolyamon belül vagy kívül
 
 ---
 
+---
+
+| Valami1 | Valami2 |
 | :--- | :--- |
-| [Mars robot](https://github.com/itbetyar/Mars-robot) <img src="https://github.com/itbetyar/mars-robot/blob/main/mars%20robot%20code.webp" alt="Alt text" width="200"> | [Grafikus Digitális óra](https://github.com/itbetyar/Digitalis-ora) |
+| [Mars robot](https://github.com/itbetyar/Mars-robot) <img src="https://github.com/itbetyar/mars-robot/blob/main/mars%20robot%20code.webp" alt="Alt text" width="200"> | [Grafikus Digitális óra](https://github.com/itbetyar/Digitalis-ora) <img src="https://github.com/itbetyar/Digitalis-ora/blob/main/digitalis-ora2.webp" alt="Alt text" width="200">
 
 
 
