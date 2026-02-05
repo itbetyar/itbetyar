@@ -2,11 +2,11 @@
 
 ### Az oldal szerkesztés alatt - 2026.02.
 
-| 🤖 A.I. Developer tanfolyam | 🐍 Kezdő Python tanfolyam | 🛠️ Egyéb Projektek |
-| :--- | :--- | :--- |
-| [Nagy AI Projektem](link) | [Mars robot](https://github.com/itbetyar/Mars-robot) | [Arduino vázlatok](link) |
+| 🤖 A.I. Developer tanfolyam | 🐍 Kezdő Python tanfolyam | 🛠️ Egyéb Projektek | Cimkék |
+| :--- | :--- | :--- | :--- |
+| [Neurális háló feltanítása - Cifar10](https://github.com/itbetyar/Neuralis_Halo_Cifar10) | [Mars robot](https://github.com/itbetyar/Mars-robot) | [Google Colab oktató](https://github.com/itbetyar/Colab-Kurzus) |[Kezdő Python cimke](https://github.com/topics/kezdo-python-tanfolyam)
 | ↳ [Arcfelismerő](link/tree/main/arc) | [Római szám átalakító](https://github.com/itbetyar/Romai-szam-atalakito) | [Egyéb kódok](link) |
-| ↳ [NLP modul](link/tree/main/nlp) | [Grafikus Digitális óra](https://github.com/itbetyar/Digitalis-ora) | [Teszt repó](link) |
+| ↳ [NLP modul](link/tree/main/nlp) | [Grafikus Digitális óra](https://github.com/itbetyar/Digitalis-ora) |   |
 | ↳ [NLP modul](link/tree/main/nlp) | [Mérföld kilométer kalkulátor](https://github.com/itbetyar/Merfold-kilometer-kalkulator) |  |
 
 ## 🐍 Kezdő Python Ismeretek - Kódok - Tanfolyam:
@@ -23,5 +23,25 @@ Nézegesd kedvedre tanfolyamon belül vagy kívül
 ## 🤖 AI Developer projektek - Kódok - Tanfolyam:
 AI developer anyagok, kódok, modellek - Nézegesd kedvedre tanfolyamon belül vagy kívül
 
+| [Neurális háló feltanítása - Kép felismerésre - Cifar10](https://github.com/itbetyar/Neuralis_Halo_Cifar10) | [Hamarosan 1](https://github.com/itbetyar/Romai-szam-atalakito) | [Hamarosan 2](https://github.com/itbetyar/Digitalis-ora)  | [Hamarosan 3](https://github.com/itbetyar/Merfold-kilometer-kalkulator) | 
+| :--- | :--- | :--- | :--- |
+| <a href="https://github.com/itbetyar/Neuralis_Halo_Cifar10"> <img src="https://raw.githubusercontent.com/itbetyar/cifar_neuralis_halo/main/itbetyar-cifar10-minta.webp" height="60" alt="Mars-robot"> </a> | <a href="https://github.com/itbetyar/Romai-szam-atalakito"> <img src="https://github.com/itbetyar/Romai-szam-atalakito/blob/main/roman-numerals.webp?raw=true" height="150" alt="Romai szam"> </a> |<a href="https://github.com/itbetyar/Digitalis-ora"> <img src="https://github.com/itbetyar/Digitalis-ora/blob/main/digitalis-ora2.webp?raw=true" height="90" alt="digitalis-ora"> </a> | <a href="https://github.com/itbetyar/Merfold-kilometer-kalkulator)"> <img src="https://github.com/itbetyar/Merfold-kilometer-kalkulator/blob/main/mf-km-convert.webp?raw=true" height="150" alt="kalkulator"> </a> |
+
 ## Reinforcement learning
 Hamarosan!
+
+<div>
+  <h3>Várunk szeretettel képzéseinken:</h3>
+  <p>
+    <a href="https://itbetyar.hu"><img alt="IT Betyár honlap" src="https://itbetyar.hu/dload_itb/colab_gomb_itb.webp" height="40px"></a>
+    <a href="https://itbetyar.hu/python-tanfolyam/"><img alt="python-tanfolyam" src="https://itbetyar.hu/dload_itb/colab_gomb_kpt.webp" height="40px"></a>
+    <a href="https://itbetyar.hu/mesterseges-intelligencia-fejleszto-tanfolyam/"><img alt="AI Developer tanfolyam" src="https://itbetyar.hu/dload_itb/colab_gomb_aidev.webp" height="40px"></a>
+  </p>
+  
+  <h3>Social IT oldalak - Kód kohók:</h3>
+  <p>
+    <a href="https://huggingface.co/itbetyar"><img alt="Hugging Face oldalunk" src="https://itbetyar.hu/dload_itb/colab_gomb_hugging.webp" height="40px"></a>
+    <a href="https://www.kaggle.com/itbetyar"><img alt="Kaggle oldalunk" src="https://itbetyar.hu/dload_itb/colab_gomb_kaggle.webp" height="40px"></a>
+    <a href="https://www.youtube.com/@itbetyar"><img alt="YouTube csatornánk" src="https://itbetyar.hu/dload_itb/colab_gomb_youtube.webp" height="40px"></a>
+  </p>
+</div>
