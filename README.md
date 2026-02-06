@@ -4,7 +4,7 @@
 
 | 🤖 A.I. Developer tanfolyam | 🐍 Kezdő Python tanfolyam | 🛠️ Egyéb Projektek | Cimkék |
 | :--- | :--- | :--- | :--- |
-| [Neurális háló feltanítása - Cifar10](https://github.com/itbetyar/Neuralis_Halo_Cifar10) | [Mars robot](https://github.com/itbetyar/Mars-robot) | [Google Colab oktató](https://github.com/itbetyar/Colab-Kurzus) |[Kezdő Python cimke](https://github.com/topics/kezdo-python-tanfolyam)
+| [Neurális háló feltanítása - Cifar10](https://github.com/itbetyar/Neuralis_Halo_Cifar10) | [Mars robot](https://github.com/itbetyar/Mars-robot) | [Google Colab oktató](https://github.com/itbetyar/Colab-Kurzus) |<a href="https://github.com/topics/kezdo-python-tanfolyam"> <img src="https://raw.githubusercontent.com/itbetyar/itbetyar/refs/heads/main/python%20-cimke.webp" height="25" alt="kezdo-python"> </a>
 | ↳ [Arcfelismerő](link/tree/main/arc) | [Római szám átalakító](https://github.com/itbetyar/Romai-szam-atalakito) | [Egyéb kódok](link) |
 | ↳ [NLP modul](link/tree/main/nlp) | [Grafikus Digitális óra](https://github.com/itbetyar/Digitalis-ora) |   |
 | ↳ [NLP modul](link/tree/main/nlp) | [Mérföld kilométer kalkulátor](https://github.com/itbetyar/Merfold-kilometer-kalkulator) |  |
